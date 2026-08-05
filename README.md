@@ -2,7 +2,7 @@
 
 Developer in Calgary. I work on the parts of a product that get audited: payments, kids privacy, emissions reporting, security compliance.
 
-### Now
+### ⚡ Now
 
 **APMC** · Software Developer · since Sep 2024  
 Streaming for two brands on one Nuxt monorepo, plus a smart TV app, the native mobile releases and a Flutter desktop tool the broadcast operators use during live games.
@@ -13,7 +13,7 @@ Streaming for two brands on one Nuxt monorepo, plus a smart TV app, the native m
 * **Compliance.** kidSAFE COPPA, and consent across web and TV.
 * **Design system.** Moved both brands onto dialogs, then deleted the old modal stack.
 
-### Before
+### 🗂 Before
 
 **Kettl** · Software Engineer · 2023 to 2024  
 Live event production management. User management, production control, workforce tracking, and the GraphQL side so data came in live instead of by hand. React, Next.js, Apollo, Prisma, Postgres.
@@ -27,11 +27,7 @@ Security compliance across SOC 2, ISO 27001, GDPR and HIPAA. Dashboard features,
 **InceptionU** · Full Stack Developer · 2020 to 2021  
 Where I started. Real projects for real clients. Node.
 
-### Numbers
-
-Last two years, across 11 repos: **849 pull requests merged**, **458 reviewed** for other people, around 3,400 commits. Most of it is private, so the graph below understates it.
-
-### Stack
+### 🧰 Stack
 
 **Languages** TypeScript · JavaScript · Dart  
 **Frameworks** Vue 3 · Nuxt · React · Next.js · Flutter · Node  
@@ -40,6 +36,6 @@ Last two years, across 11 repos: **849 pull requests merged**, **458 reviewed** 
 **Infra** AWS · Docker · Vercel · GitHub Actions  
 **Analytics** GA4 · Google Tag Manager · Meta CAPI
 
-### Elsewhere
+### 🔗 Elsewhere
 
 BSc in Production Engineering, Universidad Metropolitana · [LinkedIn](https://www.linkedin.com/in/raquelmjrs/)
