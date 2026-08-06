@@ -9,16 +9,7 @@ Most of what I do is make those parts hard to get wrong. One source of truth ins
 ### ⚡ Now
 
 **APMC** · Software Developer · since Sep 2024
-Streaming for two brands on one Nuxt monorepo, plus a smart TV app, the native mobile releases and a Flutter desktop tool the broadcast operators use during live games. **849 pull requests merged, 458 reviewed for other people.**
-
-* **Payments.** Stripe checkout and subscriptions, mostly the ugly parts: the script fails to load, the page restores from cache, the plan gets lost in login, someone deletes an account that still has an active sub.
-* **Attribution.** Meta CAPI and TikTok. Keeping last click honest across fbclid and UTM so organic doesn't take credit for paid.
-* **Ad beacons.** Deduplication and quartile correctness, so what gets reported matches what actually played.
-* **Playback.** DRM, and recovering from it when it fails. Seeking on DVR and VOD. Captions that stay off when you turn them off.
-* **Compliance.** kidSAFE COPPA, and consent across web and TV.
-* **Server side.** Node API routes, and picking what renders where across SSR, ISR and SPA.
-* **Simplifying.** Platform detection centralized. A dual auth store replaced with one source of truth. AdobePass moved out of the shared layer. Plan config derived from one list instead of IDs scattered everywhere. Moved both brands onto dialogs, then deleted the old modal stack.
-* **Releases.** I cut them. The last four went out across four AWS accounts.
+Streaming for two brands on one Nuxt monorepo, plus a smart TV app, the native mobile releases and a Flutter desktop tool the broadcast operators use during live games.
 
 ### 🗂 Before
 
