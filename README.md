@@ -2,10 +2,6 @@
 
 Developer in Calgary. I work on the parts of a product that get audited: payments, kids privacy, ad attribution, security compliance.
 
-Five companies in six years and every one of them had someone outside checking the work. Auditors at Tugboat, emissions regulators at Validere, and now Stripe, the ad networks, a kids privacy certification body and the DRM licensors, all at once.
-
-Most of what I do is make those parts hard to get wrong. One source of truth instead of five copies, dead code deleted, and tests around the things that cost money if they break. Over two years I have deleted almost as many lines as I have written.
-
 ### ⚡ Now
 
 **APMC** · Software Developer · since Sep 2024
