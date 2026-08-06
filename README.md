@@ -4,15 +4,7 @@ Developer in Calgary. I work on the parts of a product that get audited: payment
 
 Five companies in six years and every one of them had someone outside checking the work. Auditors at Tugboat, emissions regulators at Validere, and now Stripe, the ad networks, a kids privacy certification body and the DRM licensors, all at once.
 
-### 🔎 The quiet ones
-
-The bugs I find are usually the ones nothing was watching. Three of mine:
-
-* A **500 on every URL with a query string.** Every paid campaign link to the home page was dead. The bare URL returned 200, so monitoring stayed green and nobody noticed.
-* **Ad beacons firing twice**, counting quartiles twice, inflating the view numbers we sold against.
-* A **deploy pipeline that had been failing for six weeks** on a product I had just inherited. Nothing had shipped and nothing had complained.
-
-I did production engineering before software, so I look for that.
+Most of what I do is make those parts hard to get wrong. One source of truth instead of five copies, dead code deleted, and tests around the things that cost money if they break. Over two years I have deleted almost as many lines as I have written.
 
 ### ⚡ Now
 
@@ -21,10 +13,11 @@ Streaming for two brands on one Nuxt monorepo, plus a smart TV app, the native m
 
 * **Payments.** Stripe checkout and subscriptions, mostly the ugly parts: the script fails to load, the page restores from cache, the plan gets lost in login, someone deletes an account that still has an active sub.
 * **Attribution.** Meta CAPI and TikTok. Keeping last click honest across fbclid and UTM so organic doesn't take credit for paid.
+* **Ad beacons.** Deduplication and quartile correctness, so what gets reported matches what actually played.
 * **Playback.** DRM, and recovering from it when it fails. Seeking on DVR and VOD. Captions that stay off when you turn them off.
 * **Compliance.** kidSAFE COPPA, and consent across web and TV.
-* **Design system.** Moved both brands onto dialogs, then deleted the old modal stack.
 * **Server side.** Node API routes, and picking what renders where across SSR, ISR and SPA.
+* **Simplifying.** Platform detection centralized. A dual auth store replaced with one source of truth. AdobePass moved out of the shared layer. Plan config derived from one list instead of IDs scattered everywhere. Moved both brands onto dialogs, then deleted the old modal stack.
 * **Releases.** I cut them. The last four went out across four AWS accounts.
 
 ### 🗂 Before
