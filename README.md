@@ -24,7 +24,7 @@ Security compliance across SOC 2, ISO 27001, GDPR and HIPAA. Dashboard features,
 Where I started. Real projects for real clients. Node.
 
 **Before software** · 2016 to 2020  
-Project coordination, procurement and inventory across three Calgary companies.
+Project coordination, procurement and inventory.
 
 ### 🧰 Stack
 
