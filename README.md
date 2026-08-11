@@ -14,9 +14,6 @@ Streaming for two brands on one Nuxt monorepo, plus a smart TV app, the native m
 **Kettl** · Software Engineer · 2023 to 2024  
 Live event production management. User management, production control, workforce tracking, and the GraphQL side so data came in live instead of by hand. React, Next.js, Apollo, Prisma, Postgres.
 
-**Validere** · Software Developer · 2023  
-Emissions reporting for oil and gas, replacing a lot of spreadsheets. Roles and permissions screens, plus a change log so people could see what had been edited. That is what gets asked for when the numbers are audited. React, TypeScript, Storybook, Vercel.
-
 **Tugboat Logic** (bought by OneTrust) · Front End Developer · 2021 to 2023  
 Security compliance across SOC 2, ISO 27001, GDPR and HIPAA. Dashboard features, version comparison for audit workflows, and a component library in Storybook. React, TypeScript, Redux, Cypress.
 
