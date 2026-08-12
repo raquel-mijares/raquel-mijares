@@ -2,7 +2,7 @@
 
 Developer in Calgary. I work on the parts of a product that get audited: payments, kids privacy, ad attribution, security compliance.
 
-The public repos here are from 2020. Everything since is in private company repositories, which is what the contribution graph is made of.
+Most of my work lives in private company repositories.
 
 ### ⚡ Now
 
@@ -16,9 +16,6 @@ Live event production management. User management, production control, workforce
 
 **Tugboat Logic** (bought by OneTrust) · Front End Developer · 2021 to 2023  
 Security compliance across SOC 2, ISO 27001, GDPR and HIPAA. Dashboard features, version comparison for audit workflows, and a component library in Storybook. React, TypeScript, Redux, Cypress.
-
-**InceptionU** · Full Stack Developer · 2020 to 2021  
-Where I started. Real projects for real clients. Node.
 
 **Before software** · 2016 to 2020  
 Project coordination, procurement and inventory.
@@ -34,4 +31,4 @@ Project coordination, procurement and inventory.
 
 ### 🔗 Elsewhere
 
-BSc in Production Engineering, Universidad Metropolitana · [LinkedIn](https://www.linkedin.com/in/raquelmjrs/)
+BSc in Production Engineering, Universidad Metropolitana · Full Stack Development Program, InceptionU, 2020 to 2021 · [LinkedIn](https://www.linkedin.com/in/raquelmjrs/)
