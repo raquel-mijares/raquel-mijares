@@ -1,6 +1,6 @@
 ## Raquel Mijares
 
-Developer in Calgary. I work on the parts of a product that get audited: payments, kids privacy, ad attribution, security compliance.
+APMC · Senior Software Developer in Calgary. I work on the parts of a product that get audited: payments, kids privacy, ad attribution, security compliance.
 
 Most of my work lives in private company repositories.
 
