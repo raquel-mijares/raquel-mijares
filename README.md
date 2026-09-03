@@ -6,7 +6,7 @@ Most of my work lives in private company repositories.
 
 ### ⚡ Now
 
-**APMC** · Software Developer · since Sep 2024  
+**APMC** · Senior Software Developer · since Sep 2024  
 Streaming for two brands on one Nuxt monorepo, plus a smart TV app, the native mobile releases and a Flutter desktop tool the broadcast operators use during live games.
 
 ### 🗂 Before
