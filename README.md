@@ -1,7 +1,7 @@
 ## Raquel Mijares
 
 Developer in Calgary. I work on the parts of a product that get audited: payments, kids privacy, ad attribution, security compliance.
-Most of my work lives in private company repositories.
+Most of my work lives in private company repositories. The public piece is [frontend-compliance](https://github.com/raquel-mijares/frontend-compliance): consent gating, analytics without PII, kids privacy and SOC 2 evidence, with the tests that keep it true.
 
 ### ⚡ Now
 
