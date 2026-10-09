@@ -1,15 +1,13 @@
 ## Raquel Mijares
 
-Senior developer in Calgary. I work on the parts of a product that get audited: payments, kids privacy, ad attribution, security compliance.
+Senior software developer in Calgary. I work on the parts of a product that get audited: payments, kids privacy, ad attribution, security compliance.
 
-Most of my work lives in private company repositories. The public piece is [frontend-compliance](https://github.com/raquel-mijares/frontend-compliance): consent gating, analytics without PII, kids privacy and SOC 2 evidence, with the tests that keep it true.
+Most of my work lives in private company repositories, so I write it up as case studies at [raquelmijares.com](https://raquelmijares.com). The public piece is [frontend-compliance](https://github.com/raquel-mijares/frontend-compliance): consent gating, analytics without PII, kids privacy and SOC 2 evidence, with the tests that keep it true.
 
-### ⚡ Now
+### 🗂 Experience
 
-**APMC** · Senior Software Developer · since Sep 2024  
+**APMC** · Senior Software Developer · 2024 to 2026  
 Streaming for two brands on one Nuxt monorepo, plus a smart TV app, the native mobile releases and a Flutter desktop tool the broadcast operators use during live games.
-
-### 🗂 Before
 
 **Kettl** · Software Engineer · 2023 to 2024  
 Live event production management. User management, production control, workforce tracking, and the GraphQL side so data came in live instead of by hand. React, Next.js, Apollo, Prisma, Postgres.
@@ -31,4 +29,4 @@ Project coordination, procurement and inventory.
 
 ### 🔗 Elsewhere
 
-BSc in Production Engineering, Universidad Metropolitana · Full Stack Development Program, InceptionU, 2020 to 2021 · [LinkedIn](https://www.linkedin.com/in/raquelmjrs/)
+BSc in Production Engineering, Universidad Metropolitana · Full Stack Development Program, InceptionU, 2020 to 2021 · [raquelmijares.com](https://raquelmijares.com) · [LinkedIn](https://www.linkedin.com/in/raquelmjrs/)
