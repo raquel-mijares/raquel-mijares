@@ -7,7 +7,7 @@ Most of my work lives in private company repositories, so I write it up as case 
 ### 🗂 Experience
 
 **APMC** · Senior Software Developer · 2024 to 2026  
-Streaming for two brands on one Nuxt monorepo, plus a smart TV app, the native mobile releases and a Flutter desktop tool the broadcast operators use during live games.
+Streaming for two brands on one Nuxt monorepo, plus a smart TV app, the native mobile releases and a Flutter desktop tool the broadcast operators use during live games. Victory+ carried 200,000+ concurrent viewers through the 2025 playoffs. I led the Nuxt 3 to 4 migration, wrote the release and QA process the team shipped with, and use Claude Code against Jira, GitHub and a real browser every day.
 
 **Kettl** · Software Engineer · 2023 to 2024  
 Live event production management. User management, production control, workforce tracking, and the GraphQL side so data came in live instead of by hand. React, Next.js, Apollo, Prisma, Postgres.
